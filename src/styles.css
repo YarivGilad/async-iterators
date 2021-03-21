@@ -1,0 +1,20 @@
+body {
+  min-height: 100vh;
+  font-family: sans-serif;
+  background: #0176c7;
+  background: cornflowerblue;
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  align-items: center;
+  font-size: 30px;
+  color: white;
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.2);
+  user-select: none;
+}
+h1 {
+  margin: 0.3rem;
+  text-transform: uppercase;
+}
